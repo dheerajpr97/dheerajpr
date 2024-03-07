@@ -13,7 +13,7 @@ M.Sc. graduate in Electrical Systems Engineering, with specialization in Signals
 Here are a few projects I've been involved with:
 
 - **[Explainable-AI-Non-EEG](https://github.com/dheerajpr97/Explainable-AI-Non-EEG):** Analysis and visualization of Non-EEG biomedical data (non-EEG) through Explainable AI techniques.
-- - **[KITTI-PointNet](https://github.com/asnecemnnit/huggingface_competitions_shipdetection):** Implementation and tools necessary for training and evaluating PointNet models on the KITTI dataset for tasks such as point cloud classification and segmentation.
+- **[KITTI-PointNet](https://github.com/asnecemnnit/huggingface_competitions_shipdetection):** Implementation and tools necessary for training and evaluating PointNet models on the KITTI dataset for tasks such as point cloud classification and segmentation.
 - **[Audio Genre Classification](https://github.com/dheerajpr97/Audio-Genre-Classification):** Audio Genre Classification on GTZAN dataset using Deep Learning and Speech Signal Processing.
 
 ## Get in Touch 📬
