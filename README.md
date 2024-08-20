@@ -13,6 +13,7 @@ M.Sc. graduate in Electrical Systems Engineering, with specialization in Signals
 Here are a few projects I've been involved with:
 
 - **[Conversational-RAG-DocSearch](https://github.com/dheerajpr97/Conversational-RAG-DocSearch):** Conversational-RAG-DocSearch is an advanced multi-lingual document search and Q&A system that supports conversational queries, PDF uploads, and offers flexible model and embedding options with an interactive UI.
+- **[LangChain-SQL-Chat](https://github.com/dheerajpr97/LangChain-SQL-chat):** Building an interactive SQL database interface incorporating LLMs to simplify data querying and exploration.
 - **[MRI Segmentation using MedViT](https://github.com/dheerajpr97/MRI-Seg-MedViT):** Fine-tune the MedViT model for precise MRI segmentation and evaluate performance using Intersection over Union (IoU) metrics.
 - **[Explainable-AI-Non-EEG](https://github.com/dheerajpr97/Explainable-AI-Non-EEG):** Analysis and visualization of Non-EEG biomedical data through Explainable AI techniques.
 - **[KITTI-PointNet](https://github.com/asnecemnnit/huggingface_competitions_shipdetection):** Implementation and tools necessary for training and evaluating PointNet models on the KITTI dataset for tasks such as point cloud classification and segmentation.
