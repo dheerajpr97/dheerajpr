@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Researcher and Engineer with a st
 
 ## About Me 🧑‍💻
 
-M.Sc. graduate in Electrical Systems Engineering, with specialization in Signals & Information Processing. Over three years of academic and practical experience in Computer Vision and Machine Learning. Recently worked on developing solutions to analyze CNN predictions on multimodal sensor data, using Grad-CAM and SHAP Explainable AI (XAI) techniques during my time as a student research assistant. Skilled in applying critical thinking to real-world challenges. Eager to develop and deploy AI-based solutions in the automotive or medical industry.
+As a passionate Machine Learning Engineer with a strong foundation in Electrical Systems Engineering, I specialize in Computer Vision, Speech Processing, and Signal Processing. With over three years of hands-on experience, I've developed solutions using advanced techniques like Grad-CAM and SHAP for Explainable AI. My work has focused on applying AI to solve real-world problems, particularly in the automotive and medical industries. I'm eager to continue leveraging AI to create impactful solutions and explore new frontiers in these fields.
 
 ## Projects 🚀
 
